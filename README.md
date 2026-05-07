@@ -1,0 +1,12 @@
+lab6a-o/plink
+https://github.com/Manojgoudah/lab6/blob/master/lab6a.png
+lab6aa-o/plink
+https://github.com/Manojgoudah/lab6/blob/master/lab6aa.png
+lab6b-o/plink
+https://github.com/Manojgoudah/lab6/blob/master/lab6b.png
+lab6bb-o/plink
+https://github.com/Manojgoudah/lab6/blob/master/lab6bb.png
+lab6c-o/plink
+https://github.com/Manojgoudah/lab6/blob/master/lab6c.png
+lab6cc-o/[link
+https://github.com/Manojgoudah/lab6/blob/master/lab6cc.png
